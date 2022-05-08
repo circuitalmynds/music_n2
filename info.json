@@ -1,5 +1,11 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "A Mirage-KnIPXneHTi8.mp4",
+            "path": "music_n2/videos/A Mirage-KnIPXneHTi8.mp4",
+            "size": 5.752705024
+        }
+    ],
+    "total_size": 5.752705024
 }
