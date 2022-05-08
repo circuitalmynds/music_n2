@@ -2,10 +2,15 @@
     "available_space": true,
     "files": [
         {
+            "name": "The End of the World-xHa6a3FtPJg.mp4",
+            "path": "music_n2/videos/The End of the World-xHa6a3FtPJg.mp4",
+            "size": 3.4774538240000004
+        },
+        {
             "name": "A Mirage-KnIPXneHTi8.mp4",
             "path": "music_n2/videos/A Mirage-KnIPXneHTi8.mp4",
             "size": 5.752705024
         }
     ],
-    "total_size": 5.752705024
+    "total_size": 9.230158848
 }
